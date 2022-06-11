@@ -1,0 +1,94 @@
+html {
+
+    background-color: rgb(237, 245, 245);
+}
+
+.header {
+
+    background-size: cover;
+    border: 5px solid rgb(232, 246, 246);
+    border-radius: 2%;
+    text-align: center;
+    height: 6rem;
+}
+
+h1 {
+    padding-top: 1rem;
+    font-family: fantasy;
+    color: rgb(5, 5, 96);
+    text-align: center;
+}
+
+table tr td {
+
+    border: 2px solid rgb(42, 42, 120);
+}
+
+
+.tr1 td  {
+
+    color: rgb(15, 15, 123);
+    border-color :rgb(15, 15, 123);
+}
+
+.tr2 td {
+
+    color: rgb(15, 15, 123);
+    border-color :rgb(15, 15, 123);
+}
+
+.tr3 td {
+
+    color: rgb(213, 27, 27);
+    border-color: rgb(213, 27, 27);
+}
+
+td{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 6px;
+}
+.image {
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 6rem;
+    width: 6rem;
+    background-image: url(img/6851302.png);
+    background-size: cover;
+    border-radius: 50%;
+
+}
+
+#buttons {
+
+    margin-top: 2.5rem;
+    text-align: center;
+
+}
+
+button {
+
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+    background-color: deepskyblue;
+    border: 1px solid darkblue;
+    border-radius: 3px;
+    height: 1.6rem;
+    width: 5rem;
+}
+
+button:hover {
+
+    background-color: cornflowerblue;
+    color: blue;
+}
+
+
+.table {
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5rem;
+
+}
